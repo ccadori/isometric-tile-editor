@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tile type="0" x="0" y="0" z="0" />
+  <Tile type="2" x="0" y="0" z="-1" />
+  <Tile type="2" x="-1" y="-1" z="-1" />
+  <Tile type="2" x="-1" y="-1" z="0" />
+  <Tile type="2" x="0" y="-1" z="-1" />
+  <Tile type="2" x="1" y="-2" z="-1" />
+  <Tile type="2" x="1" y="-2" z="-1" />
+</ArrayOfTile>

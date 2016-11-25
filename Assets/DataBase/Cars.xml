@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Char xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <faseLevel>0</faseLevel>
+  <charName>Cars</charName>
+  <level>1</level>
+  <head>0</head>
+  <weapon1>2</weapon1>
+  <weapon2>0</weapon2>
+  <robe>1</robe>
+</Char>
